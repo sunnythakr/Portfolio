@@ -567,7 +567,7 @@ a:hover {
 }
 
 .intro .intro-content {
-  text-align: center;
+  text-align: left;
   position: absolute;
 }
 
@@ -590,7 +590,7 @@ a:hover {
 
 @media (min-width: 768px) {
   .intro .intro-title {
-    font-size: 2.5rem;
+    font-size: 2.0rem;
     font-family: "Times";
   }
 }
@@ -734,7 +734,7 @@ a:hover {
 	/*background: url(https://images.unsplash.com/photo-1576437660058-6d94e1bd67fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80) no-repeat; */
 	background-size: cover;
 	margin-bottom: -3px;
-	height: 150vh;
+	height: 110vh;
 }
 
 .title-text{
